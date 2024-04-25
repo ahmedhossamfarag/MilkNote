@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.milknote.MainActivity">
+    <item
+        android:id="@+id/action_new"
+        android:orderInCategory="100"
+        android:title="@string/action_new"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_review"
+        android:orderInCategory="100"
+        android:title="@string/action_review"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_process"
+        android:orderInCategory="100"
+        android:title="@string/action_process"
+        app:showAsAction="never" />
+</menu>

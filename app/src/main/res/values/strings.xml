@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Milk Note</string>
+
+    <!--Menu-->
+    <string name="action_new">New</string>
+    <string name="action_review">Review</string>
+    <string name="action_process">Process</string>
+
+    <!--Dialog-->
+    <string name="str_name">Name</string>
+    <string name="str_value">Value</string>
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="sure">Are You Sure?</string>
+
+    <!--Snack-->
+    <string name="name_exists">Name Exists</string>
+    <string name="invalid_cut">Invalid Cut</string>
+
+    <string name="add_new">Add New</string>
+
+    <string name="customer">Customer</string>
+
+    <string name="unit_price">Unit Price</string>
+
+    <!--App Bar-->
+    <string name="weeks_list">Weeks List</string>
+    <string name="names_list">Names List</string>
+</resources>
